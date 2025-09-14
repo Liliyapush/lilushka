@@ -12,3 +12,4 @@ int main()
         std::cout << "YES";
     else
         std::cout << "NO";
+}
